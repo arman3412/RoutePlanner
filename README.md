@@ -7,7 +7,7 @@ It supports minimizing travel time or distance, respects location closing times,
 
 ## Features
 
-- Input a starting location, up to 4 intermediate stops, and an optional ending location.
+- Input a starting location, up to 5 intermediate stops, and an optional ending location.
 - Specify closing times and how long you plan to stay at each stop.
 - Choose travel mode (Drive, Bicycle, Walk, Transit).
 - Minimize total travel time or distance.
